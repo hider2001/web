@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="18px" viewBox="0 0 12 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Stroke 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="honeycomb_desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g transform="translate(-650.000000, -4328.000000)" id="form" stroke="#0078FF" stroke-width="3">
+            <g transform="translate(150.000000, 3293.000000)">
+                <g id="button_submit" transform="translate(405.000000, 1022.000000)">
+                    <polyline id="Stroke-1" points="98 28 104 22 98 16"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
